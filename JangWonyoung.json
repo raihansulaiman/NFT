@@ -1,0 +1,35 @@
+{
+    "name": "Jang Wonyoung",
+    "description": "Our youngest sister, Wony",
+    "image": "https://ipfs.io/ipfs/QmaLehZy9WMM2MEgUics9vj26gqu4GQHNu329STCUgR7dt?filename=Wonyoung.jpg",
+    "attributes": [
+        {
+            "trait_type": "Cute",
+            "value": 95
+        },
+        {
+            "trait_type": "Sexy",
+            "value": 85
+        },
+        {
+            "trait_type": "Pabo",
+            "value": 87
+        },
+        {
+            "trait_type": "Vocal",
+            "value": 80
+        },
+        {
+            "trait_type": "Dance",
+            "value": 89
+        },
+        {
+            "trait_type": "Charisma",
+            "value": 82
+        },
+        {
+            "trait_type": "Fame",
+            "value": 0
+        }
+    ]
+}
