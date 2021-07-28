@@ -1,35 +1,5 @@
 {
     "name": "Jang Wonyoung",
-    "description": "Our youngest sister, Wony",
-    "image": "https://ipfs.io/ipfs/QmaLehZy9WMM2MEgUics9vj26gqu4GQHNu329STCUgR7dt?filename=Wonyoung.jpg",
-    "attributes": [
-        {
-            "trait_type": "Cute",
-            "value": 95
-        },
-        {
-            "trait_type": "Sexy",
-            "value": 85
-        },
-        {
-            "trait_type": "Pabo",
-            "value": 87
-        },
-        {
-            "trait_type": "Vocal",
-            "value": 80
-        },
-        {
-            "trait_type": "Dance",
-            "value": 89
-        },
-        {
-            "trait_type": "Charisma",
-            "value": 82
-        },
-        {
-            "trait_type": "Fame",
-            "value": 0
-        }
-    ]
+    "description": "Jang Won Young (Korean: 장원영; Japanese: ジャんウォンヨン; or simply Wonyoung) is a South Korean singer-songwriter and rapper currently under Starship Entertainment. She is a former member of the project girl group IZ*ONE.",
+    "image": "https://ipfs.io/ipfs/QmaLehZy9WMM2MEgUics9vj26gqu4GQHNu329STCUgR7dt?filename=Wonyoung.jpg"
 }
