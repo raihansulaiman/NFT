@@ -1,1 +1,1 @@
-# IzoneNFT
+# NFT repo
